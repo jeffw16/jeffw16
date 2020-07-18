@@ -21,7 +21,7 @@ LinkedIn: [jeffw16](https://www.linkedin.com/in/jeffw16/)
 
 My experiences in each language:
 
-- JavaScript (ES6): Express-based Node.js backend
+- JavaScript (ES6): Express-based Node.js backend; frontend logic of websites, including with frameworks such as jQuery
 - TypeScript: custom Azure DevOps pipeline task (intern project at Microsoft)
 - Java: language used during my internship at GoDaddy; used to develop many general purpose programs; learned in high school and college, taught in college as a TA
 - Python: general purpose programs; Flask backend; small scripts
