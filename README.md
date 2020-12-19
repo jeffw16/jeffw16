@@ -1,6 +1,6 @@
 ### Jeffrey Wang
 
-I am an experienced small business manager with over 8 years of experience in wiki hosting. I'm a practical entrepreneur who wants to make an impact on the world through wide-reaching, established ventures. Currently, I'm studying Computer Science and Business Honors at the University of Texas at Austin in the Turing Scholars and Business Honors Programs. I interned for Microsoft in summer 2020 as a software engineer. 
+I am an experienced small business manager with over 8 years of experience in wiki hosting. I'm a practical entrepreneur who wants to make an impact on the world through wide-reaching, established ventures. I received my degree in Computer Science from the University of Texas at Austin in December 2020. I interned for Microsoft in summer 2020 as a software engineer. 
 
 - 🔭 I worked on optimizing Azure usage at Microsoft!
 - 🌱 I’m currently learning how to develop iOS apps. Check out Neighborhood Alerts!
