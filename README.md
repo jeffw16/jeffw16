@@ -23,8 +23,8 @@ My experiences in each language:
 
 - JavaScript (ES6): Express-based Node.js backend; frontend logic of websites, including with frameworks such as jQuery
 - TypeScript: custom Azure DevOps pipeline task (intern project at Microsoft)
-- Java: language used during my internship at GoDaddy; used to develop many general purpose programs; learned in high school and college, taught in college as a TA
-- Python: general purpose programs; Flask backend; small scripts
+- Java: language used during my internship at GoDaddy; used to develop many general purpose programs; used to develop backend APIs; learned in high school and college, taught in college as a TA
+- Python: general purpose programs; Flask backend; writing APIs in FastAPI and Flask; small scripts
 - Swift: various iOS apps such as [Neighborhood Alerts](https://github.com/jeffw16/neighborhood-alerts) and a [GPA Calculator](https://github.com/jeffw16/GPA-Calculator-iOS)
 - PHP: backend of [MyWikis](https://www.mywikis.com/) (homepage, WHMCS, and staff-only scripts), MediaWiki server administration, personal website, and most of the dozens of utility webpages written since 2014
 - C and C++: learned in high school and college
