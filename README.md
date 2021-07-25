@@ -6,8 +6,9 @@ I am an experienced small business manager with over 9 years of experience in wi
 - 🌱 I’m learning how to develop iOS apps. Check out Neighborhood Alerts!
 - 🖥 Programming languages: 
   - Fluent: JavaScript (ES6), TypeScript, Java, Python, Swift, PHP, C, C++, LaTeX
-  - Experience with: R, MySQL, Verilog, Microsoft SQL
-  - Currently learning: Kotlin
+  - Experience with: R, MySQL, Verilog, Microsoft T-SQL
+  - Currently learning: Kotlin, C#
+  - Languages to learn in the future: Rust
 - 😄 Pronouns: he/him/his/他
 <!--
 - 👯 I’m looking to collaborate on ...
