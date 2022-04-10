@@ -29,6 +29,7 @@ My experiences in each language:
 - Swift: various iOS apps such as [Neighborhood Alerts](https://github.com/jeffw16/neighborhood-alerts) and a [GPA Calculator](https://github.com/jeffw16/GPA-Calculator-iOS)
 - PHP: backend of [MyWikis](https://www.mywikis.com/) (homepage, WHMCS, and staff-only scripts), MediaWiki server administration, personal website, and most of the dozens of utility webpages written since 2014
 - C and C++: learned in high school and college
+- C#: used during my time at Microsoft
 - LaTeX: used to write many papers and a few study guides/books located [here](https://jeffw.xyz/public/nobs)
 - R: learned during an introductory data science/statistical modeling course
 - MySQL: used during my internship at GoDaddy; used for maintenance work at MyWikis
