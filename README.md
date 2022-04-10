@@ -1,6 +1,6 @@
 ### Jeffrey Wang
 
-I am an experienced small business manager with over 9 years of experience in wiki hosting. I'm a practical entrepreneur who wants to make an impact on the world through wide-reaching, established ventures. I received my degree in Computer Science from the University of Texas at Austin in December 2020. 2021 is my second year interning at Microsoft as a software engineer.
+I am an experienced small business manager with over 10 years of experience in wiki hosting. I'm a practical entrepreneur who wants to make an impact on the world through wide-reaching, established ventures. I received my degree in Computer Science from the University of Texas at Austin in December 2020. I am joining Microsoft as a software engineer in 2022.
 
 - 🔭 I'm working on Azure optimization at Microsoft!
 - 🌱 I’m learning how to develop iOS apps. Check out Neighborhood Alerts!
